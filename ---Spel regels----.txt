@@ -1,0 +1,7 @@
+---Spel regels----
+- stap 1 gooi de dobbelsteen de gene die het hoogst gooit begint
+- stap 2 als je op een tijdrijs vakje komt zie afbeelding (x) ga je de kant van de pijl uit
+- stap 3 als je door de poort ben pak je een muntje van de geld stapel je mag maximaal 5 munten dragen 
+- stap 4 elke beurt kun je kiezen of trek je een kaart of je ruilt een kaard met een rivaal, deze moet je verzamelen voor dat je binnen bent anders kom je niet door de wormhole ook al sta je op het vakje. Of je koopt iets van de markt in ruil voor een paar munten.
+stap 6 de persoon rechts van je is aan de beurt 
+
